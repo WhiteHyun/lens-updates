@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Lens Updates</title>
-    <link>https://whitehyun.github.io/lens-updates/</link>
-    <description>Appcast for Lens updates.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Lens Updates</title>
+        <link>https://whitehyun.github.io/lens-updates/</link>
+        <description>Appcast for Lens updates.</description>
+        <language>en</language>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 09 Jul 2026 21:31:08 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://whitehyun.github.io/lens-updates/Lens-1.0.0.zip" length="27335082" type="application/octet-stream" sparkle:edSignature="1ZlCyMAsXcyyxpQJolXprgxDFrXzZYnyJnAf/47fckbjWw3CczofhYtvJS8IwsNaxg1EA7KSLoDJwcK5eAtxCg=="/>
+        </item>
+    </channel>
 </rss>
