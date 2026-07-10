@@ -11,7 +11,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://whitehyun.github.io/lens-updates/Lens-1.0.0.zip" length="27335082" type="application/octet-stream" sparkle:edSignature="1ZlCyMAsXcyyxpQJolXprgxDFrXzZYnyJnAf/47fckbjWw3CczofhYtvJS8IwsNaxg1EA7KSLoDJwcK5eAtxCg=="/>
+            <enclosure url="https://whitehyun.github.io/lens-updates/Lens-1.0.0.dmg" length="30039816" type="application/octet-stream" sparkle:edSignature="ei9EkxbT+ZNvRYykCYE0LMcX/X1vg9xSxTBPPZBQhcXOrWGIaRXK6RT5YH1NQR8nO0ciVH9x230vrctBJZvnCA=="/>
         </item>
     </channel>
 </rss>
