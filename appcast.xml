@@ -6,6 +6,14 @@
         <description>Appcast for Lens updates.</description>
         <language>en</language>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 10 Jul 2026 17:46:08 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://whitehyun.github.io/lens-updates/Lens-1.0.1.dmg" length="30100166" type="application/octet-stream" sparkle:edSignature="JTviNNc6Z+FnFtpenrEgyOvUt20jUlUrWzCQFblK5stMcRg2CZyc3FQG6sxhNYcyAcp+xSwC5UesY8wwpCBdAA=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Thu, 09 Jul 2026 21:31:08 +0900</pubDate>
             <sparkle:version>1</sparkle:version>
