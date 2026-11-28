@@ -6,6 +6,14 @@
         <description>Appcast for Lens updates.</description>
         <language>en</language>
         <item>
+            <title>1.5.1</title>
+            <pubDate>Sat, 28 Nov 2026 15:58:10 +0900</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://whitehyun.github.io/lens-updates/Lens-1.5.1.dmg" length="69921320" type="application/octet-stream" sparkle:edSignature="bJWdaf0gGxObO4umAnijVbpVZpHwNn7JugngHeqDKeFnFNtvD0JdD4OBq2YhTlxiu1M8qRUnPJEPVvNozuMdCA=="/>
+        </item>
+        <item>
             <title>1.5.0</title>
             <pubDate>Fri, 27 Nov 2026 18:13:13 +0900</pubDate>
             <sparkle:version>27</sparkle:version>
@@ -20,14 +28,6 @@
             <sparkle:shortVersionString>1.4.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://whitehyun.github.io/lens-updates/Lens-1.4.9.dmg" length="64324997" type="application/octet-stream" sparkle:edSignature="zdZgs7OrpdqqdJIXxVf30jMGazunsPo/fH78OIFXKSd04Xo6RDsTOHySnsLtJmB2HoCn7bYr55fcbetB/sSYAQ=="/>
-        </item>
-        <item>
-            <title>1.4.8</title>
-            <pubDate>Tue, 24 Nov 2026 14:19:51 +0900</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://whitehyun.github.io/lens-updates/Lens-1.4.8.dmg" length="64142007" type="application/octet-stream" sparkle:edSignature="WEzBlyXH2OJ4w6EGMqMOp5CFQ5UzjlLScaItZkujONHSvsvDHARs1ClKWSmQ76T14O0wct5dLjsnv7hZ1V4DAw=="/>
         </item>
     </channel>
 </rss>
